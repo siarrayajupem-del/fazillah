@@ -1,0 +1,16 @@
+KUIZ KOLOKIUM 2026 — LANGKAH MUDAH TERBITKAN ONLINE
+
+Fail ini untuk pertandingan langsung (peserta menggunakan telefon masing-masing).
+Tiada perisian perlu dipasang pada laptop. Anda perlu akaun GitHub dan Render.
+
+1. Buka https://github.com/new dan cipta repository baharu bernama kuiz-kolokium-2026.
+2. Di GitHub, pilih Add file > Upload files. Seret SEMUA fail dan folder daripada ZIP yang sudah diekstrak ini ke halaman muat naik. Pastikan folder public/ ikut serta. Kemudian Commit changes.
+3. Buka https://dashboard.render.com/ > New > Web Service. Sambungkan akaun GitHub dan pilih repository kuiz-kolokium-2026.
+4. Pilih Language: Node; Build Command: npm install; Start Command: npm start; Root Directory: kosong; Instance: Free untuk ujian sahaja (atau paid untuk acara penting).
+5. Tekan Deploy/Create Web Service. Apabila Live, buka pautan https://...onrender.com yang diberikan.
+6. Di laptop pengacara buka pautan, pilih Paparan Pengacara > Cipta PIN Kuiz; QR akan dijana automatik.
+7. Paparkan QR pada LED. Peserta imbas, isi nama, tekan Sertai Sekarang. Boleh gunakan Wi-Fi atau data sendiri.
+8. Mula Kuiz selepas semua peserta masuk. Pengacara klik Soalan Seterusnya selepas pendedahan jawapan.
+9. Tamat 12 soalan: podium 3 pemenang dan Eksport Keputusan CSV.
+
+PENTING: Sesi dalam memori pelayan sahaja; restart/deploy/spin down hilangkan sesi. Jangan restart semasa kuiz. Render Free boleh tidur selepas 15 min tidak aktif dan boleh restart; pertimbangkan pelan berbayar untuk majlis sebenar. Sentiasa uji 2–3 telefon sebelum acara.

@@ -1,0 +1,14 @@
+[
+ {"q":"Apakah tujuan utama Pekeliling Ketua Pengarah Ukur & Pemetaan - Bilangan 1 Tahun 2026?","options":["Garis Panduan Ukuran Sempadan Negeri","Garis Panduan Ukuran Topografi","Garis Panduan Pengurusan Hakmilik Tanah","Garis Panduan Penyediaan Pelan Akui (PA) oleh JTB"],"answer":3},
+ {"q":"Bilakah tarikh pelaksanaan Pekeliling Ketua Pengarah Ukur & Pemetaan - Bilangan 1 Tahun 2026?","options":["5 Januari 2027","11 Ogos 2028","15 November 2026","1 Mei 2026"],"answer":2},
+ {"q":"Bagaimanakah nombor lot dan nombor PA akan diberikan kepada JTB mengikut pekeliling baharu ini?","options":["Secara berasingan","Secara bersekali","Permohonan manual sahaja","Selepas bayaran selesai"],"answer":1},
+ {"q":"Apakah tindakan JTB SELEPAS menerima nombor lot dan nombor PA daripada JUPEM?","options":["Menghantar eFee kepada JUPEM","Memohon kelulusan Pengarah JUPEM","Melaksanakan pengukuran di lapangan","Terus menyediakan B1.TIF"],"answer":2},
+ {"q":"Apakah contoh format nombor PA yang diberikan dalam pekeliling baharu ini?","options":["PA1113840-1","1113840-PA-1","PA/1113840/1","PA-1113840-A1"],"answer":0},
+ {"q":"Apakah format fail PA yang perlu dihantar oleh JTB mengikut pekeliling baharu ini?","options":["PA.DWG","PA.PDF","PA.TIF","PA.JPG"],"answer":2},
+ {"q":"Berapakah syarat resolusi yang ditetapkan semasa penghantaran PA?","options":["200 dpi","300 dpi","600 dpi","150 dpi"],"answer":1},
+ {"q":"Siapakah yang akan tandatangan kelulusan PA dalam carta alir kerja ukur oleh JTB?","options":["Pengarah Ukur & Pemetaan Negeri (PUPN)","Pejabat Tanah & Galian (PTG)","JTB sahaja","Pemilik Tanah"],"answer":0},
+ {"q":"Berapakah bilangan fix point yang dibenarkan untuk muat naik data *.tps semasa penghantaran 16ASCII?","options":["4 fix point","3 fix point","1 fix point","2 fix point"],"answer":2},
+ {"q":"Apakah rujukan yang akan digunakan bagi datum dan PO - New dalam kerja ukur JTB?","options":["Pelan Akui (PA)","MyLot","NDCDB","Peta Topografi"],"answer":0},
+ {"q":"Jika nombor lot diluluskan SEBELUM 15.11.2026 dan 16 ASCII dihantar SEBELUM 15.6.2027. Siapakah yang sediakan PA?","options":["JUPEM bersama JTB","Pejabat Tanah","JUPEM","JTB"],"answer":2},
+ {"q":"Jika nombor lot diluluskan SEBELUM 15.11.2026 dan 16 ASCII dihantar SELEPAS 15.6.2027. Siapakah yang sediakan PA?","options":["Pejabat Tanah","JTB","Pemilik Tanah","JUPEM"],"answer":1}
+]

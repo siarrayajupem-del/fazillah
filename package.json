@@ -1,0 +1,9 @@
+{
+ "name":"kuiz-kolokium-pelan-akui-2026",
+ "version":"1.0.0",
+ "private":true,
+ "description":"Kuiz interaktif berbilang peserta untuk Kolokium Pemantapan Kualiti Data dan Penyediaan Pelan Akui 2026",
+ "scripts":{"start":"node server.js"},
+ "engines":{"node":">=18"},
+ "dependencies":{"express":"^4.21.2","socket.io":"^4.8.1","qrcode":"^1.5.4"}
+}
